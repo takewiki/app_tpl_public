@@ -3,6 +3,10 @@ menu_book <- tabItem(tabName = "book",
                        column(width = 4,
                               box(
                                 title = "book", width = NULL, solidHeader = TRUE, status = "primary",
+                                mdl_password('password')
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
                                 "Box content"
                               ),
                               box(
@@ -27,10 +31,134 @@ menu_book <- tabItem(tabName = "book",
                               box(
                                 title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
                                 "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
                               )
                        ),
                        
                        column(width=4,
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              )
+                       )
+                     ),
+                     fluidRow(
+                       column(width = 4,
+                              box(
+                                title = "book", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              )
+                       ),
+                       
+                       column(width = 4,
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              )
+                       ),
+                       
+                       column(width=4,
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              )
+                       )
+                     ),
+                     fluidRow(
+                       column(width = 4,
+                              box(
+                                title = "book", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              )
+                       ),
+                       
+                       column(width = 4,
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              )
+                       ),
+                       
+                       column(width=4,
+                              box(
+                                title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
+                                "Box content"
+                              ),
                               box(
                                 title = "Title 1", width = NULL, solidHeader = TRUE, status = "primary",
                                 "Box content"
